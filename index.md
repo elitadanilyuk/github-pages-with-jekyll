@@ -1,5 +1,5 @@
 ---
-title: "Welcome to my blog"
+title: "Elita Danilyuk"
 ---
 
-I'm glad you are here. I plan to talk about ...
+Nice to meet you!  Here's a little about me.
